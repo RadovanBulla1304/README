@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning NextJs<br>🎯 Goals: Finish Engineer degree inf informatics</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning NextJs<br>🎯 Goals: Finish Engineer degree in informatics</p>
 
 ###
 
